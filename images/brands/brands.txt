@@ -1,3 +1,4 @@
+logo_cuber.png
 logo_conotex.png
 logo_doble-a.png
 logo_fabricel.png
@@ -10,7 +11,6 @@ logo_tapper.png
 logo_textilband.png
 logo_vahe.png
 logo_cintasoeste.png
-logo_cuber.png
 logo_elgalgo.png
 logo_fenodion.png
 logo_iaro.png
